@@ -1,0 +1,2 @@
+# WellScan
+A Disease Identifier
