@@ -87,7 +87,20 @@ WellScan/
 
 ## 📷 Sample Output
 
-![WellScan Screenshot](images/screenshot.png)
+![Screenshot](Healthcure/Screenshot%202024-09-17%20183240.png)  
+![Screenshot](Healthcure/Screenshot%202024-10-06%20200614.png)  
+![Screenshot](Healthcure/Screenshot%202024-10-06%20200635.png)  
+![Screenshot](Healthcure/Screenshot%202024-10-06%20200717.png)  
+![Screenshot](Healthcure/Screenshot%202024-10-06%20201506.png)  
+![Screenshot](Healthcure/Screenshot%202024-10-06%20201533.png)  
+![Screenshot](Healthcure/Screenshot%202024-10-06%20201536.png)  
+![Screenshot](Healthcure/Screenshot%202024-10-06%20201539.png)  
+![Screenshot](Healthcure/Screenshot%202024-10-06%20201553.png)  
+![Screenshot](Healthcure/Screenshot%202024-10-06%20201613.png)  
+![Screenshot](Healthcure/Screenshot%202024-10-06%20201626.png)  
+![Screenshot](Healthcure/Screenshot%202024-10-06%20205008.png)  
+![Screenshot](Healthcure/Screenshot%202024-10-06%20204857.png)  
+![Screenshot](Healthcure/Screenshot%202024-11-12%20164425.png)
 
 ---
 
