@@ -100,7 +100,7 @@ WellScan/
 ![Screenshot](Healthcure/Screenshot%202024-10-06%20201626.png)  
 ![Screenshot](Healthcure/Screenshot%202024-10-06%20205008.png)  
 ![Screenshot](Healthcure/Screenshot%202024-10-06%20204857.png)  
-![Screenshot](Healthcure/Screenshot%202024-11-12%20164425.png)
+
 
 ---
 
